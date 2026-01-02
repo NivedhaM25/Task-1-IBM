@@ -1,0 +1,16 @@
+{
+  "guests": [
+    {
+      "id": 1,
+      "name": "Shreya",
+      "salary": "300000",
+      "age": "29"
+    },
+    {
+      "id": 2,
+      "name": "Shruthi",
+      "salary": "600000",
+      "age": "32"
+    }
+  ]
+}
